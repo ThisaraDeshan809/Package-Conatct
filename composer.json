@@ -1,0 +1,19 @@
+{
+    "name": "code-fusion/contact",
+    "description": "This packege is designed to send email and contact message to admin",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "CodeFusion\\Contact\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "DeshanThisara",
+            "email": "thisaradeshan809@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
